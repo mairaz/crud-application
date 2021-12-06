@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 5,
+      "name": "Caneta Stabilo",
+      "price": 100
+    },
+    {
+      "id": 6,
+      "name": "Caneta Faber Castell",
+      "price": 15
+    },
+    {
+      "name": "Notebook",
+      "price": "50",
+      "id": 10
+    },
+    {
+      "name": "maira",
+      "price": 0,
+      "id": 13
+    }
+  ]
+}
